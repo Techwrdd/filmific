@@ -46,7 +46,7 @@ Read [this](https://telegram.dog/TeamEvamaria/12) before you start messing up wi
 <p>
 <br>
 
-<a href="https://heroku.com/deploy?template=https://github.com/test00123/test_repos">
+<a href="https://heroku.com/deploy?template=https://github.com/Techwrdd/filmific">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
